@@ -15,6 +15,7 @@ def run_guessing_game
   else
     puts "Sorry! The computer guessed #{comp_num}."
   end 
+end 
   
   # while user_input != "exit" do 
     
@@ -31,6 +32,6 @@ def run_guessing_game
   # if user_input == "exit"
   #   puts "Goodbye!"
   # end
-end
+
 
   
